@@ -1,0 +1,10 @@
+# Ignorer tout
+*
+
+# SAUF ces fichiers
+!submission-pres-1.csv
+!submission-pres-2.csv
+!submission-pres-3.csv
+!submission-pres-5.csv
+!README.md
+!/.gitignore
