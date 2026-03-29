@@ -2,6 +2,7 @@
 *
 
 # SAUF ces fichiers
+!*.csv
 !submission-pres-1.csv
 !submission-pres-2.csv
 !submission-pres-3.csv
